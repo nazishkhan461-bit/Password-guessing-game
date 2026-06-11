@@ -2,9 +2,9 @@
 A simple python based password guessing game
 
 # features
--user gets multiple attempts to guess the password
--provides hints after wrong guess
--Beginner-friendly python project
+-user gets multiple attempts to guess the password.
+-provides hints after wrong guess.
+-Beginner-friendly python project.
 
 # Technologies used
 -Python
