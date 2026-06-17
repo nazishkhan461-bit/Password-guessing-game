@@ -3,7 +3,7 @@ A simple python - based interactive password guessing game
 
 # features
 -user gets multiple attempts to guess the password.
--nprovides hints after wrong guess.
+-provides hints after wrong guess.
 -Beginner-friendly python project.
 -score tracking
 
