@@ -1,10 +1,11 @@
 # Password-guessing-game
-A simple python based password guessing game
+A simple python - based interactive password guessing game
 
 # features
 -user gets multiple attempts to guess the password.
 -provides hints after wrong guess.
 -Beginner-friendly python project.
+-score tracking
 
 # Technologies used
 -Python
